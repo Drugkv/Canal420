@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTM3U:-1 tvg-logo="https://ibb.co/CsCDyqY" , El Ojo Yonki TV
+https://iptwitch.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/elojoyonki
